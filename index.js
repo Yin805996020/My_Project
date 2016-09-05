@@ -183,7 +183,7 @@ header.onmouseover = function(e){
 // 顶部导航栏  更多
 function getHdRMoreLiData(){
     var xhr = new XMLHttpRequest();
-    xhr.open("get","data/hdRMore.txt?_="+Math.random(),false);
+    xhr.open("get","hdRMore.txt?_="+Math.random(),false);
     xhr.onreadystatechange = function(){
         if(xhr.readyState == 4 && xhr.status == 200)
         {
@@ -287,7 +287,7 @@ contNav.onclick = function (e){
 //内容   导航
 function getContNavData(){
     var xhr = new XMLHttpRequest();
-    xhr.open("get","data/contNav.txt?_="+Math.random(),false);
+    xhr.open("get","contNav.txt?_="+Math.random(),false);
     xhr.onreadystatechange = function(){
         if(xhr.readyState == 4 && xhr.status == 200)
         {
@@ -374,7 +374,7 @@ news.onclick = function(e){
 
 function getNewsData(){
     var xhr = new XMLHttpRequest();
-    xhr.open("get","data/newsData.txt?_="+Math.round(),false);
+    xhr.open("get","newsData.txt?_="+Math.round(),false);
     xhr.onreadystatechange = function(){
         if(xhr.readyState == 4 && xhr.status== 200){
             newsData = utils.jsonParse(xhr.responseText);
@@ -466,7 +466,7 @@ function imgDelayLoad(img){
 //获取添加新闻内容   (接口应每次获取5条新的数据 由后台提供 因没有做后台所以使用假数据 假数据只创建5条)
 function getContentForNews(){
     var xhr = new XMLHttpRequest();
-    xhr.open("get","data/newsAddData.txt?_="+Math.round(),false);
+    xhr.open("get","newsAddData.txt?_="+Math.round(),false);
     xhr.onreadystatechange = function(){
         if(xhr.readyState == 4 && xhr.status== 200){
             newsAddData = utils.jsonParse(xhr.responseText);
