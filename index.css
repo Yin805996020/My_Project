@@ -266,7 +266,7 @@ dl,dd,dt{
     vertical-align:middle;
     width:18px;
     height:18px;
-    background:url("img/weather1.png") no-repeat;
+    background:url("weather1.png") no-repeat;
 }
 .header>.hdL .hdLWeather b{
     font-weight: bold;
@@ -349,7 +349,7 @@ dl,dd,dt{
     padding:0;
     margin:0;
     vertical-align:middle;
-    background:url('img/load_ext_spis_65c74648.png') no-repeat  -32px -99px;
+    background:url('load_ext_spis_65c74648.png') no-repeat  -32px -99px;
 }
 .header>.hdL .weather_popup .weather_hd p:hover{
     color:#3388ff;
@@ -664,7 +664,7 @@ dl,dd,dt{
     display:block;
     width:18px;
     height:16px;
-    background:url("img/camera_new_679c15cc.png") no-repeat;
+    background:url("camera_new_679c15cc.png") no-repeat;
     position:absolute;
     top:12px;
     left:465px;
@@ -767,7 +767,7 @@ dl,dd,dt{
     display:block;
     width:18px;
     height:16px;
-    background:url("img/camera_new_679c15cc.png") no-repeat;
+    background:url("camera_new_679c15cc.png") no-repeat;
     position:absolute;
     top:22px;
     left:465px;
@@ -822,7 +822,7 @@ dl,dd,dt{
     /*padding-right:5px;*/
     width:20px;
     height:20px;
-    background:url("img/headbg.png") no-repeat -12px 0;
+    background:url("headbg.png") no-repeat -12px 0;
 }
 
 .content > .contNav li:hover{
@@ -852,7 +852,7 @@ dl,dd,dt{
     width:20px;
     height:20px;
     margin:10px 20px  ;
-    background:url("img/headbg.png") no-repeat -120px -48px;
+    background:url("headbg.png") no-repeat -120px -48px;
     cursor:pointer;
 }
 
@@ -936,7 +936,7 @@ dl,dd,dt{
     display:block;
     width:15px;
     height:15px;
-    background:url("img/card_setting_c0307230.png") no-repeat -40px -25px;
+    background:url("card_setting_c0307230.png") no-repeat -40px -25px;
 }
 
 .content > .contNav_setting_popup .contNav_setting_popup_Cont dl .contNavSettingFocus_ul li:hover{
@@ -972,7 +972,7 @@ dl,dd,dt{
     display:block;
     width:8px;
     height:8px;
-    background:url("img/card_setting_c0307230.png") no-repeat -60px -28px;
+    background:url("card_setting_c0307230.png") no-repeat -60px -28px;
 }
 .content > .contNav_setting_popup .contNav_setting_popup_Cont dl .contNavSettingNoFocus_ul li:hover{
     background-color:#38f;
@@ -1000,7 +1000,7 @@ dl,dd,dt{
     width:14px;
     height:14px;
     vertical-align:middle;
-    background:url("img/card_setting_c0307230.png") no-repeat -128px -25px;
+    background:url("card_setting_c0307230.png") no-repeat -128px -25px;
 }
 
 .content > .contNav_setting_popup .contNav_setting_popup_footer div b{
@@ -1009,7 +1009,7 @@ dl,dd,dt{
     height:17px;
     margin-left:10px;
     vertical-align: middle;
-    background:url("img/card_setting_c0307230.png") no-repeat -147px -24px;
+    background:url("card_setting_c0307230.png") no-repeat -147px -24px;
 }
 
 
@@ -1071,7 +1071,7 @@ dl,dd,dt{
     width:14px;
     height:14px;
     vertical-align:top;
-    background:url("img/news_7dd96f5d.png") no-repeat -45px -1px;
+    background:url("news_7dd96f5d.png") no-repeat -45px -1px;
 }
 
 .news .newsLeft .newsLeftContent ul {
@@ -1125,7 +1125,7 @@ dl,dd,dt{
     height:15px;
     z-index:3;
     /*background-color:#ccc;*/
-    background:url("img/dustbin1_ec5b2acc.png") no-repeat;
+    background:url("dustbin1_ec5b2acc.png") no-repeat;
 }
 .news .newsLeft .newsLeftContent ul li h2 .nolos:hover{
     background-position:0 -14px;
@@ -1144,7 +1144,7 @@ dl,dd,dt{
     height:106px;
     margin-left:2px;
     /*vertical-align:middle;*/
-    background:url("img/default.gif")no-repeat center;
+    background:url("default.gif")no-repeat center;
 }
 .news .newsLeft .newsLeftContent ul li .picBox a>img{
     display:none;
@@ -1259,7 +1259,7 @@ dl,dd,dt{
     width:18px;
     height:16px;
     vertical-align:middle;
-    background:url("img/news_7dd96f5d.png") no-repeat -23px -24px ;
+    background:url("news_7dd96f5d.png") no-repeat -23px -24px ;
     /*background-color:#317ef3;*/
 
 }
@@ -1404,7 +1404,7 @@ dl,dd,dt{
     margin-left:-15px;
     width:30px;
     height:15px;
-    background:url("img/headbg.png") no-repeat -110px -1px;
+    background:url("headbg.png") no-repeat -110px -1px;
     /*background-position:;*/
 }
 
