@@ -1,8 +1,0 @@
-[
-    {"imgSrc":"../img/music.png","title":"音乐","urlPath":"http://music.baidu.com/"},
-    {"imgSrc":"../img/image.png","title":"图片","urlPath":"http://image.baidu.com/"},
-    {"imgSrc":"../img/zhidao.png","title":"知道","urlPath":"https://zhidao.baidu.com/"},
-    {"imgSrc":"../img/wenku.png","title":"文库","urlPath":"http://wenku.baidu.com/"},
-    {"imgSrc":"../img/bang.png","title":"风云榜","urlPath":"http://top.baidu.com/"},
-    {"imgSrc":"../img/tuiguang.png","title":"百度推广","urlPath":"http://e.baidu.com/?subsite=bj"}
-]
